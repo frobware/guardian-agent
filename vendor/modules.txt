@@ -1,0 +1,30 @@
+# github.com/hashicorp/yamux v0.1.1
+## explicit; go 1.15
+github.com/hashicorp/yamux
+# github.com/howeyc/gopass v0.0.0-20210920133722-c8aef6fb66ef
+## explicit
+github.com/howeyc/gopass
+# github.com/jessevdk/go-flags v1.5.0
+## explicit; go 1.15
+github.com/jessevdk/go-flags
+# github.com/sternhenri/interact v0.0.0-20170607043113-dfeb9ef20304
+## explicit
+github.com/sternhenri/interact
+# golang.org/x/crypto v0.0.0-00010101000000-000000000000 => github.com/StanfordSNR/crypto v0.0.0-20180224013306-e451cabda2ac
+## explicit
+golang.org/x/crypto/curve25519
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/ed25519/internal/edwards25519
+golang.org/x/crypto/ssh
+golang.org/x/crypto/ssh/agent
+golang.org/x/crypto/ssh/knownhosts
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/sys v0.12.0
+## explicit; go 1.17
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce
+## explicit
+gopkg.in/natefinch/npipe.v2
+# golang.org/x/crypto => github.com/StanfordSNR/crypto v0.0.0-20180224013306-e451cabda2ac
